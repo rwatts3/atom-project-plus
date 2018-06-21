@@ -1,5 +1,5 @@
 {
-  "name": "project-plus",
+  "name": "project-pro",
   "main": "./lib/project-plus",
   "version": "1.0.0",
   "description": "Simply awesome project management in Atom.",
@@ -9,7 +9,7 @@
     "settings",
     "workflow"
   ],
-  "repository": "https://github.com/mehcode/atom-project-plus",
+  "repository": "https://github.com/rwatts3/atom-project-pro",
   "license": "MIT",
   "engines": {
     "atom": ">=1.5.0 <2.0.0"
